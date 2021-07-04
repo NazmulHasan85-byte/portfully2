@@ -106,3 +106,43 @@ body{
     font-size: 15px;
     margin-top: 10px;
 }
+.dr{
+    display: flex;
+    margin-top: 50px;
+    
+}
+.piz1{
+    margin-left: 510px;
+}
+#second-id{
+    display: flex;
+}
+.imeg{
+    width: 50%;
+    
+}
+
+.bsn{
+    margin-top: 50px;
+    width: 70%;
+    margin-left: 100px;
+}
+.para3{
+    font-size: 40px;
+    margin-top: 250px;
+    margin-right: 30px;
+}
+.q1{
+    margin-left: 46%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background-color: blue;
+}
