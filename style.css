@@ -8,10 +8,7 @@ body{
     font-size: 30px;
     height: 100px;
     background-color: rgb(110, 168, 168);
-    display: flex;
-   
-    
-   
+    display: flex;   
 }
 .id{
     margin-left: 20px;
@@ -121,7 +118,6 @@ body{
     width: 50%;
     
 }
-
 .bsn{
     margin-top: 50px;
     width: 70%;
@@ -145,4 +141,15 @@ body{
     padding-bottom: 10px;
     color: white;
     background-color: blue;
+}
+.amar{
+    width: auto;
+    height: 200px;
+    background-color: rgb(127, 127, 179);
+}
+.mama{ 
+    margin-top: 80px;
+    margin-left: 100px;
+    padding-left: 100px;
+    padding-top: 80px;
 }
