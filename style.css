@@ -1,0 +1,108 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+
+}
+.first{
+    width: auto;
+    font-size: 30px;
+    height: 100px;
+    background-color: rgb(110, 168, 168);
+    display: flex;
+   
+    
+   
+}
+.id{
+    margin-left: 20px;
+}
+.alink{
+    margin-left: 70%;
+    padding-top: 35px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.blink{
+    margin-left: 30px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: white;
+    background-color: blue;
+    
+}
+.blink:hover{
+    color: black;
+    background-color: bisque;
+}
+#first-id{
+    display: flex;
+}
+.name{
+    width: 50%;
+}
+.para{
+    font-size: 40px;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+.para2{
+    margin-left: 100px ;
+    margin-bottom: 60px;
+}
+.second{
+    margin-left: 100px;
+    width: 30%;
+    border: solid 2px black;
+    padding: 10px;
+    border-radius: 5px;
+}
+.second:hover{
+    background-color: rgb(148, 179, 236);
+    
+}
+.third{
+    margin-left: 15px;
+    width: 16%;
+    padding: 10px;
+    background-color: rgb(33, 33, 172);
+    color: white;
+    border-radius: 5px;
+
+}
+.third:hover{
+    background-color: rgb(112, 112, 192);
+    color: black;
+}
+#ind{
+    width: 70%;
+    margin-left: 100px;
+}
+.pic{
+    margin-top: 100px
+}
+.forth{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 40px;
+}
+.fifth{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+}
+.hq{
+  width: 50%;
+  margin-left: 350px;
+}
+.gop{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 10px;
+}
