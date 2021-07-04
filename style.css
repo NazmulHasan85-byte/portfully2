@@ -153,3 +153,7 @@ body{
     padding-left: 100px;
     padding-top: 80px;
 }
+.q1:hover{
+    background-color: rgb(127, 201, 202);
+    color: rgb(49, 42, 42);
+}
